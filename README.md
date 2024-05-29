@@ -1,16 +1,13 @@
-## Hi there 👋
+```
+Table of Contents:
+  [0x00000001] - About Me
+  [0x00000002] - Languages
 
-<!--
-**km0d/km0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[0x00000001]
+  About Me:
+    I'm a passionate programmer and I love researching and learning about stuff I find interesting.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[0x00000002]
+  Languages:
+    I can read/write in a couple languages but the languages I am most fluent in are C and Python.
+```
